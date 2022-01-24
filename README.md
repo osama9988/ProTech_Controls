@@ -1,5 +1,5 @@
 # ProTech_Controls
-This a Custome free tools to be used in C# Winforms Projects.
+This are free tools to be used in .Net C# Winforms Projects.
 
-#1- Message Box
+# 1- Message Box
 which support rtl and ltr.
